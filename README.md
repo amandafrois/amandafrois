@@ -1,8 +1,8 @@
 # @amandafrois 
 <h2><s>not</s> now a dev. </h2>
 <hr>
-:round_pushpin: [my site](https://amandafrois.com.br)<br>
-:office: [my linkedin](https://www.linkedin.com/in/amandafrois/)<br>
+:round_pushpin: [my site](https://amandafrois.com.br) <br>
+:office: [my linkedin](https://www.linkedin.com/in/amandafrois/) <br>
 <hr>
 
 -  _me_<br>
