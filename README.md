@@ -1,5 +1,5 @@
 # @amandafrois 
-<s>not</s> now a dev. 
+<h1><s>not</s> now a dev. </h1>
 <hr>
 :round_pushpin: [my site](https://amandafrois.com.br)<br>
 :office: [my linkedin](https://www.linkedin.com/in/amandafrois/)<br>
