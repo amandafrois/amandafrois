@@ -21,5 +21,5 @@
 :horse: Silverado<br>
 
 <hr>
-here [my site](https://amandafrois.com.br). <br>
-and here [my linkedin](https://www.linkedin.com/in/amandafrois/). <br>
+https://amandafrois.com.br
+https://www.linkedin.com/in/amandafrois
