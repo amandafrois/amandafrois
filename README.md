@@ -5,7 +5,7 @@
 
 -  _me_<br>
 :woman: she, her <br>
-:heart: ENTP-T
+:heart: ENTP-T <br>
 :earth_americas: Londrina, Brazil<br>
 :office: mastering in Business at UEL<br>
 
