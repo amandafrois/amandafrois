@@ -1,8 +1,6 @@
 # @amandafrois 
 <h2><s>not</s> now a dev. </h2>
-<hr>
-:round_pushpin: here [my site](https://amandafrois.com.br). <br>
-:office: and here [my linkedin](https://www.linkedin.com/in/amandafrois/). <br>
+
 <hr>
 
 -  _me_<br>
@@ -21,3 +19,7 @@
 :dog: Carcaça and Paçoca<br>
 :cat: Gatinho and Miau<br>
 :horse: Silverado<br>
+
+<hr>
+here [my site](https://amandafrois.com.br). <br>
+and here [my linkedin](https://www.linkedin.com/in/amandafrois/). <br>
