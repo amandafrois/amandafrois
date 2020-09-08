@@ -1,3 +1,3 @@
-![@amandafrois](mandy.png)
+# amandafrois 
 
-# amandafrois :heart:
+![@amandafrois](mandy.png)
