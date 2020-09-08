@@ -1,3 +1,3 @@
 # @amandafrois 
 
-![@amandafrois](mandy.png)
+![](mandy.png)
