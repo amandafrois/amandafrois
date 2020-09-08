@@ -1,7 +1,5 @@
-![@amandafrois](amandafrois.png)
-<hr>
+![@amandafrois](mandy.png)
 
-### Hi there 👋
 
 
 
