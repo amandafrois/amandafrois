@@ -1,5 +1,23 @@
 # @amandafrois 
+<s>not</s> now a dev. 
+<hr>
+:round_pushpin: [my site](https://amandafrois.com.br)<br>
+:office: [my linkedin](https://www.linkedin.com/in/amandafrois/)<br>
+<hr>
 
-not a dev. but a dev.
+-  _me_<br>
+:woman: she, her <br>
+:earth_americas: Londrina, Brazil<br>
+:office: mastering in Business at UEL<br>
 
-<img src="./mandy.png">
+- _my work_<br>
+:computer: love marketing and tech<br>
+:left_speech_bubble: scrum, google ads and google analytics<br>
+:books: in tech, frontend webdevelopment <br>
+:mag: currently learning about PHP & SQL <br>
+
+- _my life_<br>
+:mountain_bicyclist: cycling and running<br>
+:dog: Carcaça and Paçoca<br>
+:cat: Gatinho and Miau<br>
+:horse: Silverado<br>
