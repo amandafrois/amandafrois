@@ -7,13 +7,13 @@
 :woman: she, her <br>
 :heart: ENTP-T <br>
 :earth_americas: Londrina, Brazil<br>
-:office: mastering in Business at UEL<br>
+:office: mastering in Business at UEL and developer at TCS Brazil<br>
 
 - _my work_<br>
 :computer: love marketing and tech<br>
 :left_speech_bubble: scrum, google ads and google analytics<br>
-:books: in tech, frontend webdevelopment <br>
-:mag: currently learning about PHP & SQL <br>
+:books: in tech, backend webdevelopment <br>
+:mag: currently working with API's REST & SQL <br>
 
 - _my life_<br>
 :mountain_bicyclist: cycling and running<br>
