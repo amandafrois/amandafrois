@@ -13,7 +13,7 @@
 :computer: love marketing and tech<br>
 :left_speech_bubble: scrum, google ads and google analytics<br>
 :books: in tech, backend webdevelopment <br>
-:books: SQL, API's REST, Python, node.Js, C#
+:books: SQL, API's REST, Python, node.Js, C# <br>
 :mag: currently working with engineering data using Azure <br>
 
 - _my life_<br>
