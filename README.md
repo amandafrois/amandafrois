@@ -7,18 +7,18 @@
 :woman: she, her <br>
 :heart: ENTP-T <br>
 :earth_americas: Londrina, Brazil<br>
-:office: mastering in Business at UEL and developer at TCS Brazil<br>
+:office: Machine learning and Big Data, UEL; Developer at TCS Brazil<br>
 
 - _my work_<br>
-:computer: love marketing and tech<br>
-:left_speech_bubble: scrum, google ads and google analytics<br>
+:computer: data scientist <br>
+:left_speech_bubble: scrum, az-900, dp-900, Google Analytics<br>
 :books: in tech, backend webdevelopment <br>
-:books: SQL, API's REST, Python, node.Js, C# <br>
-:mag: currently working with engineering data using Azure <br>
+:books: Python, R, Nodejs, SQL <br>
+:mag: currently working as a data developer<br>
 
 - _my life_<br>
 :mountain_bicyclist: cycling and running<br>
-:dog: Carcaça and Paçoca<br>
+:dog: Haka<br>
 :cat: Gatinho and Miau<br>
 :horse: Silverado<br>
 
