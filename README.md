@@ -1,20 +1,19 @@
 # @amandafrois 
-<h2><s>not</s> now a dev. </h2>
+<h2>Data Engineer </h2>
 
 <hr>
 
 -  _me_<br>
 :woman: she, her <br>
 :heart: ENTP-T <br>
-:earth_americas: Londrina, Brazil<br>
-:office: Machine learning and Big Data, UEL; Developer at TCS Brazil<br>
+:earth_americas: São José dos Campos, Brazil<br>
+:office: Machine learning and Big Data, UEL; <br>
+:computer: Data engineer at CI&T<br>
 
 - _my work_<br>
-:computer: data scientist <br>
-:left_speech_bubble: scrum, az-900, dp-900, Google Analytics<br>
-:books: in tech, backend webdevelopment <br>
-:books: Python, R, Nodejs, SQL <br>
-:mag: currently working as a data developer<br>
+:left_speech_bubble: Azure AZ-900, Azure DP-900, GCP Associate Engineer <br>
+:books: Python, Pyspark, R, SQL <br>
+:mag: working with data ingestion, using AWS Glue, DynamoDB, Athena<br>
 
 - _my life_<br>
 :mountain_bicyclist: cycling and running<br>
